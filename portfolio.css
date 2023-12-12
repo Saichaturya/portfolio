@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.hover-card {
+    background-color: #c48b9b;
+    border-radius: 10px;
+    color: black;
+    font-family: "Serif";
+}
+
+.hover-card:hover {
+    background-color: #b3b7bf;
+    color: black;
+    font-family: "Serif";
+}
+
+.bg-container {
+    background-image: url("https://wallpaperaccess.com/full/5651990.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+.about-heading {
+    color: #08a4a7;
+    font-family: italic;
+    font-weight: 400;
+}
+
+.about-card {
+    background-color: black;
+
+}
+
+.about-container {
+    background-color: black;
+}
+
+#navItem1 {
+    color: #08a4a7;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+
+#navItem1:hover {
+    color: white;
+    background-color: #c48b9b;
+    border-radius: 10px;
+}
+
+#navItem2 {
+    color: #08a4a7;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+#navItem2:hover {
+    color: white;
+    border-radius: 10px;
+    background-color: #c48b9b
+}
+
+#navItem3 {
+    color: #08a4a7;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+#navItem3:hover {
+    color: white;
+    border-radius: 10px;
+    background-color: #c48b9b
+}
+
+#navItem4 {
+    color: #08a4a7;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+#navItem4:hover {
+    color: white;
+    border-radius: 10px;
+    background-color: #c48b9b
+}
+
+#navItem5 {
+    color: #08a4a7;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+#navItem5:hover {
+    color: white;
+    border-radius: 10px;
+    background-color: #c48b9b
+}
+
+.nav-para {
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: breeserif;
+    color: #b3b7bf;
+}
+
+.nav-para:hover {
+    color: #b3b7bf;
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.my-name {
+    color: #08a4a7;
+    font-size: 70px;
+}
+
+.text {
+    text-align: center;
+    color: black;
+}
+
+.follow-line {
+    color: blue;
+    padding-right: 2px;
+    padding: 20px;
+}
+
+.main-button {
+    background-color: transparent;
+    color: white;
+    height: 40px;
+    width: 70px;
+}
+
+.image {
+    height: 50px;
+    text-align: center;
+}
+
+.follow-us-icon-container {
+    background-color: #08a4a7;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.main-paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+/* Style for the Contact Information Section */
+.about1-card {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #08a4a7;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.about1-card h2 {
+    color: black;
+}
+
+.about1-card p {
+    margin-bottom: 10px;
+}
